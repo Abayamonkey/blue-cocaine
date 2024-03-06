@@ -1,0 +1,32 @@
+*{
+    font-family: "Rubik", sans-serif;
+}
+
+
+.body{
+    color: black;
+}
+body{
+    background-color: #E3F0FF;
+}
+p{
+    color: black;
+}
+.img{
+    width: 10%;
+    height: 10%;
+}
+
+.office{
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    padding: 25px;
+    border: solid white;
+    box-shadow: 0px 25px 40px #1687d933;
+    border-radius: 15%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
